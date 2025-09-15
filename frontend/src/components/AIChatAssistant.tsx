@@ -10,6 +10,8 @@ import {
 } from '@mui/material';
 import SendIcon from '@mui/icons-material/Send';
 import { aiService } from '../services/api';
+import { IconButton } from '@mui/material';
+
 
 interface Message {
   id: string;
