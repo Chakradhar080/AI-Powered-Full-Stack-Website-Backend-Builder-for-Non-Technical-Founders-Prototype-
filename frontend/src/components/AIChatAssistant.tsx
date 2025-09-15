@@ -5,7 +5,6 @@ import {
   Button, 
   Typography, 
   Paper, 
-  IconButton,
   CircularProgress
 } from '@mui/material';
 import SendIcon from '@mui/icons-material/Send';
